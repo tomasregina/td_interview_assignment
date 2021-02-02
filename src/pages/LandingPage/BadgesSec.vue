@@ -2,7 +2,12 @@
 <div>
   <badges-sec-header />
   <div class="grid-container">
-    <badge v-for="badge in pageData.badges" :key="badge.id" :icon="badge.icon" />
+    <badge v-for="badge in pageData.badges"
+      :key="badge.id"
+      :icon="badge.icon"
+      :title="badge.title"
+      :descr="badge.descr"
+       />
   </div>
 
 </div>
@@ -26,10 +31,10 @@ export default {
 <style lang="postcss" scoped>
 .grid-container {
   display: grid;
-   grid-template-columns: 250px 250px 250px;
-   justify-items: center;
-   width: 800px;
-   grid-gap: 15px;
-   margin: auto;
+  grid-template-columns: 250px 250px 250px;
+  justify-items: center;
+  width: 800px;
+  grid-gap: 15px;
+  margin: auto;
 }
 </style>

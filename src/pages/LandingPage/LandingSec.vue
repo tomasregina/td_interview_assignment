@@ -3,10 +3,11 @@
     <landing-sec-header-cta />
     <divider />
     <badges-sec />
-    <!--<news-sec />
+    <news-sec />
     <about-sec />
+    <divider />
     <reviews-sec />
-    <locations-sec />
+    <!--<locations-sec />
     <entry-sec />
     <process-sec />
     <faq-sec />

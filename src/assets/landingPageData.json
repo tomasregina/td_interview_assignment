@@ -68,29 +68,33 @@
     "reviews_sec": {
         "reviews_sec_header": {
             "title": "Guides, Trainers & Trailbuilders",
-            "subtitle": "Check out what they think about us"
+            "descr": "Check out what they think about us"
         },
-        "review": [
+        "reviews": [
             {
-                "photo": "",
+                "id": "1",
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/edc09dea-tom-ryczak_106u06u06s06u00000001o.jpg",
                 "review_text": "I like the idea of connecting riders internationally a lot and look forward to see more people riding together",
                 "author": "Tom Rycak",
                 "author_bio": "rider & trailbuilder,  Wilcze Sciezki Poland"
             },
             {
-                "photo": "",
+                "id": "2",
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/ef400df5-jani-hercog-profile_106s06q00000000000001o.jpg",
                 "review_text": "Putting our trails on the MTB world map by creating an amazing experience for our riders. Thanks Traildeer for helping with it.",
                 "author": "Jani Hercog",
                 "author_bio": "guide & tour operator ridgelinetrails.com Slovenia"
             },
             {
-                "photo": "",
+                "id": "3",
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/fb7aac86-roman-kalabus-profile-_106s06s00000000000001o.jpg",
                 "review_text": "As an avid rider, documentarist and expedition organizer, what traildeer offers makes a lot of sense to me.",
                 "author": "Roman Kalabus",
                 "author_bio": "bike adventurer baobabtrails.com Czechia"
             },
             {
-                "photo": "",
+                "id": "4",
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/44ab81e1-samo-pivko-profil_107007200000000000001o.jpg",
                 "review_text": "The guys from Traildeer helped me to sign up and create my first camp on the platform and within two days it has been booked out.",
                 "author": "Samo Pivko",
                 "author_bio": "pro coach & racer bearider.sk Slovakia"
@@ -104,19 +108,19 @@
         },
         "locations_sec_imgs": [
             {
-                "photo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/433a80a6-img-4705_10c30g40ai0g400s00001o.jpeg"
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/433a80a6-img-4705_10c30g40ai0g400s00001o.jpeg"
             },
             {
-                "photo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/28efa2e2-e6e268f3-3af6-46a8-af4a-47afe96f1afb_10ea0kj06a0kj04000001o.jpeg"
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/28efa2e2-e6e268f3-3af6-46a8-af4a-47afe96f1afb_10ea0kj06a0kj04000001o.jpeg"
             },
             {
-                "photo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/c51fb4e2-img-0479_10cs09l08909l02900001o.jpeg"
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/c51fb4e2-img-0479_10cs09l08909l02900001o.jpeg"
             },
             {
-                "photo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/9d00c2b6-img-0476_10ai05o0ai04200000t01o.jpeg"
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/9d00c2b6-img-0476_10ai05o0ai04200000t01o.jpeg"
             },
             {
-                "photo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/149cfb58-img-0801_10gi0m00gi0l400000g01o.jpeg"
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/149cfb58-img-0801_10gi0m00gi0l400000g01o.jpeg"
             }
         ]
     },
