@@ -1,0 +1,195 @@
+{
+    "landing_sec": {
+        "landing_sec_header_cta": {
+            "background_img": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/ee6dbcdf-sunil-chandra-sharma-cfeanxwh9wy-unsplash-copy_100000027i0v201v00001o.jpg",
+            "logo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/a7c4ef4a-group-27-2x_1079021000000000000028.png",
+            "title": "Join us on this wild ride",
+            "subtitle": "as bike guide, coach or racer",
+            "btn_title": "Sign up today"
+        }
+    },
+    "badges_sec": {
+        "badges_sec_header": {
+            "title": "Do you make money on your bike?",
+            "descr": "No matter if you're a professional bike guide, coach, racer or a bike vacation provider; or even if you are 'only' an aspiring rider who wants to build a living by riding your bike, we have some goodies in our backpack for you."
+        },
+        "badges": [
+            {
+                "id": "1",
+                "icon": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/6cbe8f47-021-streaming_104c04c000000000000028.png",
+                "title": "Free Marketing",
+                "descr": "Whatever product you put up on Traildeer, it's for free until someone makes a booking. Therefore you gain visibility of our rider audience at no cost just a little effort."
+            },
+            {
+                "id": "2",
+                "icon": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/eeabcaca-027-location_1041041000000000000028.png",
+                "title": "Attract Bikers",
+                "descr": "Since we're international in nature, your products will be shown to our  audience from other countries and you can attract a wider scope of riders this way."
+            },
+            {
+                "id": "3",
+                "icon": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/b8d8a5d7-022-streaming_1041041000000000000028.png",
+                "title": "Cut Your Costs",
+                "descr": "Our aim is to help you reduce your marketing and website development costs to the minimum, so that you can focus on growing your own business and riding your bike instead."
+            },
+            {
+                "id": "4",
+                "icon": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/f8b982ca-043-way_104i04i000000000000028.png",
+                "title": "Beautiful Products",
+                "descr": "Mountain biking is not only a very cool, but also a beautiful sport and therefore we try to make your products shine with little effort required on your end. "
+            },
+            {
+                "id": "5",
+                "icon": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/1c8a98ed-035-badge_1046046000000000000028.png",
+                "title": "Build Reputation",
+                "descr": "If you do provide a fantastic experience for our riders you'll be getting great reviews in turn, which will build a strong reputation and ensure your success. "
+            },
+            {
+                "id": "6",
+                "icon": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/edad9c7c-007-cycling_103y03y000000000000028.png",
+                "title": "Join a Community",
+                "descr": "Traildeer goes beyond making money. We want to connect the world of bikers like never before, so wherever you go in future you will be able find someone to ride with close by."
+            }
+        ]
+    },
+    "news_sec": {
+        "news_cta": {
+            "title": "Much more coming soon",
+            "btn_title": "Sign me up!"
+        }
+    },
+    "about_sec": {
+        "about": {
+            "backgroung_img": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/4f61b9af-adobestock-291009737-copy_12yo1z200000000000001o.jpeg",
+            "title": "The home for all MTB adventures",
+            "descr": "We've started with a simple idea - connect local riders with those from other regions, countries or even continents to get them riding together. By now we've expanded to tours, bike camps, expeditions and vacations and soon we will also let service providers in to make the platform the single place to go when planning your next ride."
+        }
+    },
+    "reviews_sec": {
+        "reviews_sec_header": {
+            "title": "Guides, Trainers & Trailbuilders",
+            "subtitle": "Check out what they think about us"
+        },
+        "review": [
+            {
+                "photo": "",
+                "review_text": "I like the idea of connecting riders internationally a lot and look forward to see more people riding together",
+                "author": "Tom Rycak",
+                "author_bio": "rider & trailbuilder,  Wilcze Sciezki Poland"
+            },
+            {
+                "photo": "",
+                "review_text": "Putting our trails on the MTB world map by creating an amazing experience for our riders. Thanks Traildeer for helping with it.",
+                "author": "Jani Hercog",
+                "author_bio": "guide & tour operator ridgelinetrails.com Slovenia"
+            },
+            {
+                "photo": "",
+                "review_text": "As an avid rider, documentarist and expedition organizer, what traildeer offers makes a lot of sense to me.",
+                "author": "Roman Kalabus",
+                "author_bio": "bike adventurer baobabtrails.com Czechia"
+            },
+            {
+                "photo": "",
+                "review_text": "The guys from Traildeer helped me to sign up and create my first camp on the platform and within two days it has been booked out.",
+                "author": "Samo Pivko",
+                "author_bio": "pro coach & racer bearider.sk Slovakia"
+            }
+        ]
+    },
+    "locations_sec": {
+        "location_sec_header": {
+            "title": "Expanding in Europe",
+            "descr": "Traildeer only makes sense if it is really international, so riders can travel to new locations. Every tour,  camp, vacation or expedition in a new country helps us help you to attract riders from all around Europe."
+        },
+        "locations_sec_imgs": [
+            {
+                "photo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/433a80a6-img-4705_10c30g40ai0g400s00001o.jpeg"
+            },
+            {
+                "photo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/28efa2e2-e6e268f3-3af6-46a8-af4a-47afe96f1afb_10ea0kj06a0kj04000001o.jpeg"
+            },
+            {
+                "photo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/c51fb4e2-img-0479_10cs09l08909l02900001o.jpeg"
+            },
+            {
+                "photo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/9d00c2b6-img-0476_10ai05o0ai04200000t01o.jpeg"
+            },
+            {
+                "photo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/149cfb58-img-0801_10gi0m00gi0l400000g01o.jpeg"
+            }
+        ]
+    },
+    "entry_sec": {
+        "entry_cta": {
+            "background_img": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/2294a9f5-adobestock-230615151-copy_12yo1082yo10100000201o.jpeg",
+            "title": "Already seen enough?",
+            "btn_title": "Let me in already!"
+        }
+    },
+    "process_sec": {
+        "process_sec_header": {
+            "title": "A quick and simple process",
+            "descr": "We care about high quality of members and the content, however we also want the process to be as easy as possible so that you're up and riding in no time."
+        },
+        "process_sec_steps": [
+            {
+                "text": "Sign up as a rider"
+            },
+            {
+                "text": "Fill out the guide application"
+            },
+            {
+                "text": "Start adding your product/s"
+            },
+            {
+                "text": "Onboarding call with us"
+            },
+            {
+                "text": "Start attracting riders"
+            },
+            {
+                "text": "Ride, get rated and attract more"
+            }
+        ]
+    },
+    "faq_sec": {
+        "faq_sec_header_img": {
+            "url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/7980c6b8-benjamin-huggett-wo248dg0j6a-unsplash-copy_12yo15f2yo0wq00004c01o.jpg"
+        },
+        "faq_sec_header_title": {
+            "title": "Frequently asked questions",
+            "descr": "We understand you probably have a hundred questions running through your head right now. Here are some of the key ones people are asking, sign up and we will answer the rest."
+        },
+        "faq_sec_faqs": [
+            {
+                "ques": "How does the business model work?",
+                "answ": "A classic marketplace model with a 15% fixed rate for a successful booking  of your product on offer."
+            },
+            {
+                "ques": "How do I get paid?",
+                "answ": "After accepting a booking request, we block the money and 24h after the tour we send it to your account. "
+            },
+            {
+                "ques": "How do you maintain quality of the service?",
+                "answ": "We rely on rider & provider reviews to sort out the good from the ugly, but also vet all providers and listings."
+            },
+            {
+                "ques": "Do I need to have a company or be certified?",
+                "answ": "That depends on multiple factors such as laws in your country, extent of service you want to provide etc."
+            }
+        ]
+    },
+    "bottom_entry_sec": {
+        "bottom_cta": {
+            "backgroung_imd": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/f6e29d9c-tim-foster-mjoqkapucty-unsplash-copy_12yo1802yo0tm00007601o.jpg",
+            "title": "Every end is a new beginning",
+            "btn_title": "Start your journey!"
+        }
+    },
+    "footer_sec": {
+        "footer": {
+            "copyright": "Trailldeer.com ©copyright 2021. All rights reserved."
+        }
+    } 
+}
