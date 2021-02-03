@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div >
     <reviews-sec-header />
     <div class="grid-container">
       <review v-for="review in pageData.reviews"
@@ -31,7 +31,7 @@ export default {
 
 }
 </script>
-<style lang="postcss">
+<style lang="postcss" scoped>
 .grid-container {
   display: grid;
   grid-template-columns: 390px 390px;

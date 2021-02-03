@@ -7,8 +7,9 @@
     <about-sec />
     <divider />
     <reviews-sec />
-    <!--<locations-sec />
-    <entry-sec />
+    <divider />
+    <locations-sec />
+    <!--<entry-sec />
     <process-sec />
     <faq-sec />
     <bottom-entry-sec />

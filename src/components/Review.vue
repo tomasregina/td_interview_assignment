@@ -29,7 +29,7 @@ export default {
   }
 }
 </script>
-<style lang="postcss">
+<style lang="postcss" scoped>
 .container {
   height: 300px;
 }

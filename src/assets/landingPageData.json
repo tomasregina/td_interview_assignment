@@ -102,26 +102,49 @@
         ]
     },
     "locations_sec": {
-        "location_sec_header": {
+        "locations_sec_header": {
             "title": "Expanding in Europe",
             "descr": "Traildeer only makes sense if it is really international, so riders can travel to new locations. Every tour,  camp, vacation or expedition in a new country helps us help you to attract riders from all around Europe."
         },
         "locations_sec_imgs": [
             {
-                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/433a80a6-img-4705_10c30g40ai0g400s00001o.jpeg"
+                "id": 1,
+                
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/433a80a6-img-4705_10o60w80l00w801k00001o.jpeg",
+                "location": "Italy",
+                "width": "378",
+                "height": "580"
+
             },
             {
-                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/28efa2e2-e6e268f3-3af6-46a8-af4a-47afe96f1afb_10ea0kj06a0kj04000001o.jpeg"
+                "id": 2,
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/28efa2e2-e6e268f3-3af6-46a8-af4a-47afe96f1afb_10000000b910t07600001o.jpeg",
+                "location": "Austria",
+                "width": "226",
+                "height": "739"
             },
             {
-                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/c51fb4e2-img-0479_10cs09l08909l02900001o.jpeg"
+                "id": 3,
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/c51fb4e2-img-0479_10pk0j60gi0j604i00001o.jpeg",
+                "location": "Slovenia",
+                "width": "297",
+                "height": "345"
             },
             {
-                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/9d00c2b6-img-0476_10ai05o0ai04200000t01o.jpeg"
+                "id": 5,
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/149cfb58-img-0801_10gi0m00gi0l400000g01o.jpeg",
+                "location": "Poland",
+                "width": "297",
+                "height": "380"
             },
             {
-                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/149cfb58-img-0801_10gi0m00gi0l400000g01o.jpeg"
+                "id": 4,
+                "photo_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/9d00c2b6-img-0476_10l00bc0l008400001m01o.jpeg",
+                "location": "Croatia",
+                "width": "320",
+                "height": "146"
             }
+            
         ]
     },
     "entry_sec": {

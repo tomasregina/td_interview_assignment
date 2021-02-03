@@ -19,7 +19,7 @@ export default {
   }
 }
 </script>
-<style lang="postcss">
+<style lang="postcss" scoped>
 .container {
   background-size: cover;
   width: 100%;
