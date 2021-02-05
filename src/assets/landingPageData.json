@@ -2,7 +2,7 @@
     "landing_sec": {
         "landing_sec_header_cta": {
             "background_img": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/ee6dbcdf-sunil-chandra-sharma-cfeanxwh9wy-unsplash-copy_100000027i0v201v00001o.jpg",
-            "logo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/a7c4ef4a-group-27-2x_1079021000000000000028.png",
+            "logo": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/a7c4ef4a-group-27-2x_1000000000000000000028.png",
             "title": "Join us on this wild ride",
             "subtitle": "as bike guide, coach or racer",
             "btn_title": "Sign up today"
@@ -161,47 +161,57 @@
         },
         "process_sec_steps": [
             {
+                "id": "1",
                 "text": "Sign up as a rider"
             },
             {
+                "id": "2",
                 "text": "Fill out the guide application"
             },
             {
+                "id": "3",
                 "text": "Start adding your product/s"
             },
             {
+                "id": "4",
                 "text": "Onboarding call with us"
             },
             {
+                "id": "5",
                 "text": "Start attracting riders"
             },
             {
+                "id": "6",
                 "text": "Ride, get rated and attract more"
             }
         ]
     },
     "faq_sec": {
         "faq_sec_header_img": {
-            "url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/7980c6b8-benjamin-huggett-wo248dg0j6a-unsplash-copy_12yo15f2yo0wq00004c01o.jpg"
+            "img_url": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/7980c6b8-benjamin-huggett-wo248dg0j6a-unsplash-copy_12yo15f2yo0wq00004c01o.jpg"
         },
-        "faq_sec_header_title": {
+        "faq_sec_header_text": {
             "title": "Frequently asked questions",
             "descr": "We understand you probably have a hundred questions running through your head right now. Here are some of the key ones people are asking, sign up and we will answer the rest."
         },
         "faq_sec_faqs": [
             {
+                "id": "1",
                 "ques": "How does the business model work?",
                 "answ": "A classic marketplace model with a 15% fixed rate for a successful booking  of your product on offer."
             },
             {
+                "id": "2",
                 "ques": "How do I get paid?",
                 "answ": "After accepting a booking request, we block the money and 24h after the tour we send it to your account. "
             },
             {
+                "id": "3",
                 "ques": "How do you maintain quality of the service?",
                 "answ": "We rely on rider & provider reviews to sort out the good from the ugly, but also vet all providers and listings."
             },
             {
+                "id": "4",
                 "ques": "Do I need to have a company or be certified?",
                 "answ": "That depends on multiple factors such as laws in your country, extent of service you want to provide etc."
             }
@@ -209,7 +219,7 @@
     },
     "bottom_entry_sec": {
         "bottom_cta": {
-            "backgroung_imd": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/f6e29d9c-tim-foster-mjoqkapucty-unsplash-copy_12yo1802yo0tm00007601o.jpg",
+            "background_img": "https://d9hhrg4mnvzow.cloudfront.net/join.traildeer.com/f6e29d9c-tim-foster-mjoqkapucty-unsplash-copy_12yo1802yo0tm00007601o.jpg",
             "title": "Every end is a new beginning",
             "btn_title": "Start your journey!"
         }

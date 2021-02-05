@@ -1,6 +1,8 @@
 <template>
   <div>
-    <img :src="icon" alt="" class="icon">
+    <div class="container">
+      <img :src="icon" alt="" class="icon">
+    </div>
     <div>
       <span class="title">{{ title }}</span>
     </div>
@@ -21,6 +23,10 @@ export default {
 }
 </script>
 <style lang="postcss" scoped>
+.container {
+  display: flex;
+  justify-content: center;
+}
 .title {
   font-size: 30px;
 }

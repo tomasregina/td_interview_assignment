@@ -4,12 +4,13 @@
     <divider />
     <badges-sec />
     <news-sec />
-    <about-sec />
+    <!--<about-sec />
     <divider />
     <reviews-sec />
     <divider />
     <locations-sec />
-    <!--<entry-sec />
+    <entry-sec />
+    <divider />
     <process-sec />
     <faq-sec />
     <bottom-entry-sec />

@@ -1,5 +1,8 @@
 <template>
-  <news-cta />
+  <div class="container">
+    <news-cta />
+  </div>
+
 </template>
 <script>
 import NewsCta from '../../components/NewsCta';

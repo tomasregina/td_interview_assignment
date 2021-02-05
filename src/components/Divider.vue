@@ -10,4 +10,10 @@
   height: 11px;
   margin: auto;
 }
+
+@media only screen and (max-width: 768px) {
+  .divide-line {
+    width: 280px;
+  }
+}
 </style>

@@ -3,7 +3,7 @@
   <locations-sec-header />
   <vue-flex-waterfall
   col="3"
-  col-spacing="2"
+  col-spacing="15"
   :break-at="{ 900: 3, 600: 2, 300: 1 }"
   >
   <div class="test" v-for="location in masonryData" :key="location.id">
@@ -31,4 +31,8 @@ export default {
 }
 </script>
 <style lang="postcss" scoped>
+img {
+  border-radius: 23px;
+  margin-top: 15px;
+}
 </style>

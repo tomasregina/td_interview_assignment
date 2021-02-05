@@ -1,9 +1,9 @@
 <template>
   <div class="container">
-    <div class="title">
-      <span>{{ pageData.title }}</span>
+    <div class="title-container">
+      <span class="title">{{ pageData.title }}</span>
     </div>
-    <div class="cta-div">
+    <div class="cta-container">
       <button class="cta-btn">{{ pageData.btn_title }}</button>
     </div>
   </div>

@@ -1,7 +1,7 @@
 <template>
 <div>
   <badges-sec-header />
-  <div class="grid-container">
+    <div class="grid-container">
     <badge v-for="badge in pageData.badges"
       :key="badge.id"
       :icon="badge.icon"
@@ -9,6 +9,7 @@
       :descr="badge.descr"
        />
   </div>
+
 
 </div>
 </template>
@@ -29,12 +30,23 @@ export default {
 }
 </script>
 <style lang="postcss" scoped>
+.flex-container {
+  display: flex;
+
+}
 .grid-container {
   display: grid;
   grid-template-columns: 250px 250px 250px;
-  justify-items: center;
-  width: 800px;
+  /* width: 800px; */
   grid-gap: 15px;
   margin: auto;
+  justify-content: center;
 }
+@media only screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: 230px;
+
+  }
+}
+
 </style>

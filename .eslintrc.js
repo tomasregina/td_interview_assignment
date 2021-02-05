@@ -17,6 +17,7 @@ module.exports = {
     'no-unused-vars': 'warn',
     'semi': 'warn',
     'space-before-function-paren': 'warn',
-    'vue/no-unused-components': 'warn'
+    'vue/no-unused-components': 'warn',
+    'no-multiple-empty-lines': 'warn'
   }
 }
