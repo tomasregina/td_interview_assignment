@@ -12,3 +12,8 @@ export default {
   }
 }
 </script>
+<style lang="postcss" scoped>
+.container {
+
+}
+</style>

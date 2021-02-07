@@ -36,8 +36,15 @@ export default {
   display: grid;
   grid-template-columns: 390px 390px;
   justify-items: center;
-  width: 800px;
+  justify-content: center;
   grid-gap: 15px;
   margin: auto;
+}
+
+@media only screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: 230px;
+
+  }
 }
 </style>

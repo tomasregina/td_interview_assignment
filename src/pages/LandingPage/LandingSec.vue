@@ -4,10 +4,10 @@
     <divider />
     <badges-sec />
     <news-sec />
-    <!--<about-sec />
+    <about-sec />
     <divider />
     <reviews-sec />
-    <divider />
+    <!--<divider />
     <locations-sec />
     <entry-sec />
     <divider />

@@ -1,9 +1,9 @@
 <template>
   <div class="container">
-    <div class="title">
+    <div class="title-container">
       <span>{{ pageData.title }}</span>
     </div>
-    <div class="descr">
+    <div class="descr-container">
       <span>{{ pageData.descr }}</span>
     </div>
   </div>
@@ -18,6 +18,22 @@ export default {
   }
 }
 </script>
-<style lang="postcss">
-
+<style lang="postcss" scoped>
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.title-container {
+  font-size: 36px;
+  text-align: center;
+}
+.descr-container {
+  font-size: 16px;
+}
+@media only screen and (max-width: 768px)  {
+  .title-container {
+    width: 329px;
+  }
+}
 </style>
